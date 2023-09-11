@@ -1,0 +1,17 @@
+<div class="container">
+
+  <div class="section-title">
+    <h2>Download</h2>
+
+  </div>
+
+  <div class="testimonial-item aos-init aos-animate" data-aos="fade-up">
+          <p>
+            <i class="bx bxs-quote-alt-left quote-icon-left"></i>I hope that in the near future, we will have the opportunity to work together.<i class="bx bxs-quote-alt-right quote-icon-right"></i>
+          </p>
+          <i class="bi bi-briefcase testimonial-img"></i>
+          <h3><a href="cv.xls">Download</a></h3>
+          <h4>Eng_Resume.word</h4>
+        </div>
+
+</div>
