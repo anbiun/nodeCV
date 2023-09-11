@@ -1,0 +1,78 @@
+<div class="container">
+
+  <div class="section-title">
+    <h2>Experience</h2>
+    <p>I have previous experience working at a software house that served as a vendor for banks. Later on, 
+      I transitioned to working with a financial and finance-related company, where I have been employed up to the present day.</p>
+  </div>
+
+  <div class="row">
+    <div class="col-lg-6" data-aos="fade-up">
+      <h3 class="timeline-title">Present</h3>
+      <div class="timeline-item pb-0">
+        <h4>NTL.</h4>
+        <h4 class="text-muted"><em>Ngern Tid Lor</em></h4>
+        <h5>2021 - Present</h5>
+        <p><em>
+          Front-End Developer.
+        </em></p>
+        <ul>
+          <li>SAS-3 System</li>
+        </ul>
+      </div>
+      <div class="timeline-item">
+        <h4>KBTG.</h4>
+        <h4 class="text-muted"><em>Kasikorn Technology Business Group</em></h4>
+        <h5>2020 - 2021</h5>
+        <p><em>Front-End Developer.</em></p>
+        <ul>
+          <b>MS SharePoint, VB & C# .NET,.NET Core API</b>
+          <li>K-Research - Develop Sign up & Sign in With Facebook</li>
+          <li>K-MyInvest - Develop Suitability Test, Sell Page</li>
+          <li>Report Export & Generator Download</li>
+        </ul>
+        <ul>
+          <b>Angular 6, C# .NET Core API, MS SQL Server</b>
+          <li>Manage Customer Data System</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+      <div class="timeline-item">
+        <h4>Softster</h4>
+        <h5>2018 - 2020</h5>
+        <p><em>Developer</em></p>
+        <ul>
+          <b>Angular6, C# .NET Core API, MS SQL Server</b>
+          <li>Maintain coding for Budget Managing System - KBANK</li>
+          <li>Maintain coding for Compliance Tracking System - KBANK</li>
+          <li>Develop Training Prototype for FLP Project - KBANK</li>
+          <li>Maintain coding for Sales Referral System - UOB</li>
+          <li>Maintain coding for Lead Management System - UOB</li>
+          <li>Maintain coding for AMFIS Report Generator - UOB</li>
+          <li>Maintain coding for NSB Report Generator - UOB</li>
+          <li>Maintain coding for AMFICS Report Generator - UOB</li>
+        </ul>
+        <ul>
+          <b>Struts2, JAVA8, Bootstrap4, iText PDF Lib., MS SQL Server</b>
+          <li>Developing Leave System</li>
+        </ul>
+      </div>
+      <div class="timeline-item">
+        <h4>Kiwi & Komkom JL Products</h4>
+        <h5>2017 - 2018</h5>
+        <p><em>Fullstack Develop</em></p>
+        <ul>
+          <b>VB.NET,Windows Web Services, MS SQL Server</b>
+          <li>Design and develop a production material inventory system for further integration into the MRP system.</li>
+        </ul>
+        <li>Develop an Android Mobile App. to work in conjunction with the system developed using JAVA.</li>
+        <li>Support User network issues, general computer usage problems.</li>
+        <li>Establish a Mail system for the company, including maintenance and monitoring.</li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+</div>

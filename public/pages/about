@@ -1,0 +1,30 @@
+<div class="container">
+
+  <div class="section-title">
+    <h2>Full Stack Developer</h2>
+    
+  <p class="fst-italic">I have the ability to develop both Windows applications and web applications from coding the user interface to developing APIs that connect to databases. Additionally, I have experience in creating Android applications using Java and React Native in conjunction with Expo</p></div>
+
+  <div class="row">
+    <div class="col-lg-4 aos-init aos-animate" data-aos="fade-right">
+      <img src="assets/img/profile-img.jpg" class="img-fluid" alt="">
+    </div>
+    <div class="col-lg-8 pt-4 pt-lg-0 content aos-init aos-animate" data-aos="fade-left">
+      <h3 class="d-none">Full Stack Developer</h3>
+      <p class="fst-italic d-none">I have the ability to develop both Windows applications and web applications from coding the user interface to developing APIs that connect to databases. Additionally, I have experience in creating Android applications using Java and React Native in conjunction with Expo</p>
+      <div class="row">
+        <div class="col-lg">
+          <ul>
+            <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>8 Nov 1988</span></li>
+            <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span><a href="https://nitipon.netlify.app/">nitipon.netlify.app</a></span></li>
+            
+            
+          <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>35</span></li><li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Bachelor of Business Administration</span></li><li><i class="bi bi-chevron-right"></i> <strong>Major:</strong> <span>Computer Information - Software Development</span>
+            </li><li><i class="bi bi-chevron-right"></i> <strong>University:</strong> <span>RMUTI</span></li></ul>
+        </div>
+        
+      </div>
+      
+    </div>
+  </div>
+</div>
