@@ -62,6 +62,11 @@
           <li>MVC</li>
           <li>OOP</li>
         </ul>
+        <li>Runtime Environment</li>
+        <ul>
+          <li>Node.JS</li>
+          <li>Expo</li>
+        </ul>
       </ul>
     </div>
   </div>
