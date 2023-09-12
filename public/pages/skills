@@ -8,10 +8,9 @@
       and Restful APIs. Additionally, I possess some skills in Android application development and Windows services."
     </p>
   </div>
-
   <div class="row">
     <div class="col-lg-4 col-md-6 icon-box aos-init aos-animate" data-aos="fade-up">
-      <div class="icon"><i class="bi bi-briefcase"></i></div>
+      <div class="icon"><i class="bi bi-code-slash"></i></div>
       <h4 class="title">Language</h4>
       <ul class="description">
         <li>C#</li>
@@ -32,15 +31,15 @@
       </ul>
     </div>
     <div class="col-lg-4 col-md-6 icon-box aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-      <div class="icon"><i class="bi bi-bar-chart"></i></div>
+      <div class="icon"><i class="bi bi-database-fill-check"></i></div>
       <h4 class="title">RDBMS</h4>
       <ul class="description">
-        <li>SQL & T-SQL</li>
+        <li>SQL &amp; T-SQL</li>
         <li>Knowledge of Procedure, Trigger ,Function</li>
       </ul>
     </div>
     <div class="col-lg-4 col-md-6 icon-box aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
-      <div class="icon"><i class="bi bi-brightness-high"></i></div>
+      <div class="icon"><i class="bi bi-regex"></i></div>
       <h4 class="title">Soft Skills</h4>
       <ul class="description">
         <li>HTML</li>
@@ -50,7 +49,7 @@
       </ul>
     </div>
     <div class="col-lg-4 col-md-6 icon-box aos-init aos-animate" data-aos="fade-up" data-aos-delay="400">
-      <div class="icon"><i class="bi bi-brightness-high"></i></div>
+      <div class="icon"><i class="bi bi-diagram-3"></i></div>
       <h4 class="title">Other</h4>
       <ul class="description">
         <li>Version Control</li>
@@ -62,7 +61,13 @@
           <li>MVC</li>
           <li>OOP</li>
         </ul>
+        <li>Runtime Environment</li>
+        <ul>
+          <li>Node.JS</li>
+          <li>Expo</li>
+        </ul>
       </ul>
     </div>
   </div>
+
 </div>
